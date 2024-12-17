@@ -1,0 +1,1 @@
+The following CSS code snippet demonstrates an issue where a pseudo-element selector is used incorrectly causing unexpected behavior. The intent was to style the `::before` pseudo-element of the `<p>` element with a specific color, but due to an error in the selector, the style is not applied correctly.
